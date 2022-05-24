@@ -1,2 +1,2 @@
 # Elite-Client
-a mc client
+A really cool mc client
